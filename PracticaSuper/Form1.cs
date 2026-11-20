@@ -249,5 +249,10 @@ namespace PracticaSuper
             else
                 iconoNotificacion.Visible = false;
         }
+
+        private void btnDescatalogar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
