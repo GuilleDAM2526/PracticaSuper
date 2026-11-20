@@ -1,0 +1,46 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+*.vrshareddata/
+*.jlcproj.vsidx
+packages/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# OS
+Thumbs.db
+.DS_Store
